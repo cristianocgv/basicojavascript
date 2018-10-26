@@ -1,5 +1,5 @@
 /* Professor Cristiano Gonçalves
-Exemplo 200 update 02 
+Exemplo 400 update 005
  Calculando um novo salario. 
  Para exercicitar basta trocar os valores das variáveis salario e aumento
 */
