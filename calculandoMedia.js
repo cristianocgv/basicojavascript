@@ -1,5 +1,6 @@
 
-/* Professor Cristiano Gonçalves 
+/* Professor Cristiano Gonçalves
+Exemplo 002  
  Calculando a média do aluno utilizando if e else. 
  Para exercicitar basta trocar as notas e você irá percerber que o resultado será diferente
 */
