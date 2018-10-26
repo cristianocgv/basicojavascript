@@ -1,4 +1,5 @@
-/* Professor Cristiano Gonçalves 
+/* Professor Cristiano Gonçalves
+Seja bem vindo ao Mundo JavaScript 
  Calculando um novo salario. 
  Para exercicitar basta trocar os valores das variáveis salario e aumento
 */
