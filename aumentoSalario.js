@@ -1,5 +1,5 @@
 /* Professor Cristiano Gonçalves
-Exemplo 500 update 005
+Exemplo 600 - Testando branch Cristiano Desenvoledor
  Calculando um novo salario. 
  Para exercicitar basta trocar os valores das variáveis salario e aumento
 */
